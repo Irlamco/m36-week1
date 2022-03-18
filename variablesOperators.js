@@ -42,12 +42,3 @@ var dayDifference = timeDifference / (1000 * 60 * 60 * 24)
 console.log(Math.round(dayDifference))
 */
 
-let space1 = "x"
-let space2 = "o"
-let space3 = ""
-let space4 = "x"
-let space5 = "x"
-let space6 = ""
-let space7 = "o"
-let space8 = ""
-let space9 = ""
